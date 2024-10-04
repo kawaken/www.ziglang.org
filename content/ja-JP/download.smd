@@ -9,7 +9,7 @@
 },
 ---
 # リリース
-また、[パッケージマネージャからZigをインストールすることも可能です](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager)。
+[パッケージマネージャからZigをインストールする](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager)ことも可能です。
 
 このページには、[JSONバージョンがあります]($link.siteAsset('download/index.json'))。
 
