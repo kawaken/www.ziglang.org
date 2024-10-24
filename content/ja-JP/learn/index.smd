@@ -51,27 +51,3 @@ Short introduction to Zig well suited for developers coming from garbage-collect
 [Andrew Kelley](https://andrewkelley.me)による、Zigとその哲学を紹介するビデオ。
 - [ZigのLLVMとの新しい関係](https://kristoff.it/blog/zig-new-relationship-llvm/)
 Zigセルフホストコンパイラの構築に向けた作業についてのブログ記事。[lwn.netの記事](https://lwn.net/Articles/833400/)でも紹介されています。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
